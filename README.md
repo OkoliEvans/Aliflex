@@ -5,4 +5,4 @@ The marketplace hosts some new and rare non fungible tokens, players in the mark
 Players, however must have at least one meta token in their wallet to participate. To get meta token, click on getMeta function.
 
 ## Deployment
-AliFlex is deployed on Sepolia testnet at this address: 0x57B8156AB6FDd0bac1388098E98EAFE5668F3B83
+AliFlex is deployed on Sepolia testnet at this address: 0x47A7EA849d500625aa424bF90a5DF4814895C279
